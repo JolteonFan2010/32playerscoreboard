@@ -1,5 +1,5 @@
 # 32playerscoreboard
-32 Player Scoreboard modification for Team Fortress 2.
+32 player scoreboard modification for Team Fortress 2.
 
 
 Files go in Steam -> Steamapps -> Common -> Team Fortress 2 -> tf -> custom -> my_custom_stuff
